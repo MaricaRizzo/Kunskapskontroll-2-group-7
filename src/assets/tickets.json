@@ -1,0 +1,42 @@
+[
+    { 
+    "id": 1,  
+    "title": "Lasse-Stefanz",
+    "place": "Kjell Härnqvistsalen",
+    "startTime": "19.00",
+    "endTime":"21.00",
+    "price": 350,
+    "day": "21",
+    "month": "mar"
+    },
+    { 
+    "id": 2,  
+    "title": "Pelle trubadur",
+    "place": "Pubelipuben",
+    "startTime": "22.00",
+    "endTime":"00.00",
+    "price": 110,
+    "day": "29",
+    "month": "mar"
+    },
+    { 
+    "id": 3,  
+    "title": "Kajsas kör",
+    "place": "Götaplatsen",
+    "startTime": "15.00",
+    "endTime":"16.00",
+    "price": 99,
+    "day": "10",
+    "month": "apr"
+    },
+    { 
+    "id": 4,  
+    "title": "Klubb Untz",
+    "place": "Din favoritkällare",
+    "startTime": "22.00",
+    "endTime":"du tröttnar",
+    "price": 150,
+    "day": "17",
+    "month": "apr"
+    }
+]
