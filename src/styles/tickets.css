@@ -1,0 +1,79 @@
+@import "main.css";
+
+
+.tickets-h1-container {
+    margin: 2.2rem 0;
+}
+
+.tickets-h1 {
+    font-size: 2.6rem;
+    margin: 1rem;
+}
+
+.ticket-card-container {
+    background-color: white;
+    border-radius: 3px;
+}
+
+.title-container {
+    padding-left: 0.8rem;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.4);
+}
+
+.title-container p, .location-container p, .info-container p{
+    color: rgb(0,0,0,0.4);
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.7rem;
+    padding-top: 0.5rem;
+    text-align: left;
+    margin-top: 0;
+}
+
+.title-container h3 {
+    color: var(--pink);
+  font-family: var(--font-sansita);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 37px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-bottom: 1.5rem;
+}
+
+.location-container {
+    background-color: rgb(0,0,0,0.03);
+    padding-left: 0.8rem;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.4);
+}
+
+.location-container h3 {
+    color: rgb(0,0,0,0.7);
+    text-align: left;
+    padding-bottom: 4rem;
+    font-size: 1.3rem;
+}
+
+.info-container {
+    background-color: rgba(0, 0, 0, 0.06);;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.info-container h3 {
+    color: rgb(0,0,0,0.6);
+    text-align: left;
+    font-size: 1.3rem;
+    text-transform: capitalize;
+}
+
+.small-container {
+    padding-left: 0.8rem;
+    padding-bottom: 0.8rem;
+}
+
+.right-border {
+    border-right: 1px dashed rgba(0, 0, 0, 0.4);
+}

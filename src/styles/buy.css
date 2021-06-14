@@ -1,0 +1,51 @@
+@import "main.css";
+
+
+.buy-container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.buy-p-container {
+    margin-top: 5.3rem;
+    margin-bottom: 2.3rem;
+}
+
+.buy-p {
+    font-style: italic;
+    font-size: 1.2rem;
+    margin: 0.4rem;
+    color: var(--off-white);
+}
+
+.buy-h1 {
+    margin-bottom: 5px;
+    font-size: 2.4rem;
+}
+
+.buy-date-time {
+    color: var(--green);
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 1rem 0;
+}
+
+.buy-place {
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--off-white);
+}
+
+.buy-price {
+    font-size: 1.8rem;
+    margin: 8rem 0;
+}
+
+.buy-button {
+    background-color: var(--green);
+    font-size: 1.3rem;
+    border-radius: 3px;
+    font-weight: 600;
+    padding: 1.2rem 0;
+}
